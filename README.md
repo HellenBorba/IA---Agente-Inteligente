@@ -65,7 +65,8 @@ Esse algoritmo permite que o inimigo calcule, em tempo real, **a rota mais curta
 
 ## 📸 Demonstrações 
 
-> *(Adicione aqui prints de tela ou GIFs mostrando o jogo em execução)*
+![Demonstração do jogo](ganhou.gif)
+![Demonstração do jogo](perdeu.gif)
 
 ---
 
