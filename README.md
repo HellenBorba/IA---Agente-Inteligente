@@ -25,8 +25,7 @@ O desafio escolhido pelo grupo foi:
 Criamos um **jogo de labirinto** em que o jogador (usuário) deve chegar ao final do labirinto **sem ser alcançado por um inimigo inteligente**.  
 Caso o inimigo atinja o jogador, o jogo termina.
 
-Para tornar esse inimigo mais realista e desafiador, utilizamos a técnica de **Agentes Inteligentes**, com o algoritmo **A*** (A-estrela).  
-Esse algoritmo permite que o inimigo calcule, em tempo real, **a rota mais curta até o jogador**, com base em uma função heurística.
+Para tornar esse inimigo mais realista e desafiador, utilizamos a técnica de **Agentes Inteligentes**, com o algoritmo **A*** (A-estrela). Esse algoritmo permite que o inimigo calcule, em tempo real, **a rota mais curta até o jogador**, com base em uma função heurística.
 
 ---
 
