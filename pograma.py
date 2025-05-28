@@ -1,0 +1,11 @@
+# Meu primeiro programa em python
+print('Bem vindo ao meu programa!')
+print('Qual o seu nome?')
+myName = input()
+print('Prazer em conhece-lo, ' + myName)
+print('A quantidade de letras do seu nome é:')
+NumeroDeLetras = len(myName)
+print(NumeroDeLetras)
+print('Qual a sua idade?')
+idade = input()
+print('Você tem ' + idade + ' anos')
